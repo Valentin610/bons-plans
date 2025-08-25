@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bons Plans et Astuces</title>
+<meta name="description" content="Découvrez les meilleurs bons plans, astuces et conseils pour le quotidien !">
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; color: #333; }
+header { background: #4CAF50; color: white; padding: 20px; text-align: center; }
+nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+main { display: flex; flex-wrap: wrap; max-width: 1200px; margin: 20px auto; gap: 20px; }
+article { background: white; padding: 20px; flex: 2 1 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+aside { flex: 1 1 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: fit-content; }
+footer { background: #333; color: white; text-align: center; padding: 15px; margin-top: 20px; }
+h2 { color: #4CAF50; }
+.ad-block { margin: 20px 0; padding: 10px; background: #e2e2e2; text-align: center; border-radius: 8px; }
+</style>
+</head>
+<body>
+
+
+<header>
+<h1>Bons Plans et Astuces</h1>
+<nav>
+<a href="#">Accueil</a>
+<a href="#">Astuces</a>
+<a href="#">Contact</a>
+</nav>
+</header>
+
+
+<main>
+<article>
+<h2>Astuce du jour : économisez sur vos courses</h2>
+<p>Découvrez comment réduire votre facture de supermarché grâce à des coupons et applications de cashback.</p>
+
+
+<!-- Emplacement pub intégré dans l'article -->
+<div class="ad-block">
+<!-- Exemple de bloc AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-XXXXXXXXXXXX"
+data-ad-slot="YYYYYYYYYY"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<p>En utilisant ces astuces, vous pouvez économiser jusqu'à 20% sur votre panier chaque semaine.</p>
+</article>
+
+
+<aside>
+<h2>Publicité / Bons plans sponsorisés</h2>
+<div class="ad-block">
+<!-- Exemple autre emplacement pub -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-XXXXXXXXXXXX"
+data-ad-slot="ZZZZZZZZZZ"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p>Autres articles intéressants :</p>
+</html>
